@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AppCobAdm</string>
+    <string name="navigation_drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close Navigation Drawer</string>
+    <string name="nh_name">Name(s)</string>
+    <string name="nav_header_subtitle">Group</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About...</string>
+    <string name="action_logout">Log Out</string>
+    <string name="conf_section" translatable="false">Configuration</string>
+    <string name="par_function" translatable="false">Parent Function</string>
+    <string name="by">Develop and Designed by</string>
+    <string name="programmer_name" translatable="false">Axel Abraham Maldonado Enriquez</string>
+    <string name="image_programmer" translatable="false">Image Programmer</string>
+    <string name="school_name" translatable="false">Escuela Superior Tizayuca</string>
+    <string name="univ_es_hid" translatable="false">Universidad Autonoma del Estado de Hidalgo</string>
+    <string name="logo_uaeh" translatable="false">logo_uaeh</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username" translatable="false">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hint_email">Write your email</string>
+    <string name="hint_password">Write your password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="hint_name">Write your Name(s)</string>
+    <string name="hint_lt_name">Write your Last Names</string>
+    <string name="hint_phone">Write your cellphone number</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="coba_logo" translatable="false">Logo cobaem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="nvUserData">My Info</string>
+    <string name="hint_confPassword">Confirm Your Password</string>
+    <string name="hint_update_name">Change name</string>
+    <string name="hint_update_lsname">Change Last Name</string>
+    <string name="hint_update_phone">Change Number Phone</string>
+    <string name="hint_update_email">Change Email Address</string>
+    <string name="hint_update_passwd">Change Password</string>
+    <string name="btnEditarUsuario">Edit Info</string>
+    <string name="btnActualizarUsuario">Update Info</string>
+    <string name="nvUpdateUser">Update User Info</string>
+    <string name="nvAvisos">Notices</string>
+    <string name="btnActualizarAvisos">Update Notices</string>
+    <string name="btnAddAlumno">Add Student Info</string>
+    <string name="btnEditAlumno">Edit Student Info</string>
+    <string name="btnUpdateAlumno">Update Student Info</string>
+    <string name="hint_add_alumno">Write Student Name</string>
+    <string name="hint_edit_alumno">Change Student Name</string>
+    <string name="menu_materias">materai</string>
+    <string name="nvDetalleMateria">Asignature Detail</string>
+    <string name="shAviso">Notices</string>
+    <string name="shEscala">Scale</string>
+    <string name="shCalif">Score</string>
+    <string name="shAsist">Attendance</string>
+    <string name="menu_actividades">Activities</string>
+    <string name="nvDesemAlum">Student\'s Scores</string>
+</resources>
